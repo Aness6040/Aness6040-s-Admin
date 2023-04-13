@@ -1,0 +1,70 @@
+@import url('https://fonts.cdnfonts.com/css/minecraft-4');
+@import url('https://fonts.cdnfonts.com/css/minecraftia');
+
+.btn-mc1 {
+    font-family: 'Minecraft', sans-serif;
+    color: #ffffff;
+    background-color: #52a535;
+    border-color: #52a535;
+    box-shadow: 0px 3px 0px #3c7d29;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .btn-mc1:hover {
+    font-family: 'Minecraft', sans-serif;
+    color: #ffffff;
+    background-color: #3c7d29;
+    border-color: #3c7d29;
+    box-shadow: 0px 6px 0px #316421;
+  }
+  
+  .btn-mc1:active {
+    font-family: 'Minecraft', sans-serif;
+    background-color: #3c7d29;
+    border-color: #3c7d29;
+    box-shadow: none;
+    transform: translateY(3px);
+  }
+  
+  .btn-mc1:focus {
+    font-family: 'Minecraft', sans-serif;
+    box-shadow: 0px 0px 0px 2px #52a535, 0px 0px 0px 4px #52a535;
+  }
+
+  .btn-mc2 {
+    font-family: 'Minecraft', sans-serif;
+    color: #ffffff;
+    background-color: #626262;
+    border-color: #626262;
+    box-shadow: 0px 3px 0px #505050;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .btn-mc2:hover {
+    font-family: 'Minecraft', sans-serif;
+    color: #ffffff;
+    background-color: #505050;
+    border-color: #505050;
+    box-shadow: 0px 6px 0px #363636;
+  }
+  
+  .btn-mc2:active {
+    font-family: 'Minecraft', sans-serif;
+    background-color: #505050;
+    border-color: #505050;
+    box-shadow: none;
+    transform: translateY(3px);
+  }
+  
+  .btn-mc2:focus {
+    font-family: 'Minecraft', sans-serif;
+    box-shadow: 0px 0px 0px 2px #626262, 0px 0px 0px 4px #626262;
+  }
+
+  .mc1{
+    font-family: 'Minecraft', sans-serif;
+  };
+
+  .mc2{
+    font-family: 'Minecraftia', sans-serif;
+  };
